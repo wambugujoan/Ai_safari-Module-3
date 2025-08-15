@@ -43,5 +43,7 @@ Use as a reference for AI ethics discussions, coursework, or personal learning.
 👩‍💻 Author
 
 Responsible AI Inspector: Joan Wambugu
+
 Course/Assignment: “AI in the Real World — Judge the Bot”﻿# Ai_safari-Module-3
+
 
